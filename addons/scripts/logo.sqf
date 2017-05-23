@@ -5,7 +5,7 @@
 //	@file Author: Matt76
 //	@file Description: CCG Watermark
 
-_pic = "mapConfig\Loading.paa";
+_pic = "mapConfig\cheer.jpg";
 
 [
     '<img align=''left'' size=''2'' shadow=''0'' image='+(str(_pic))+' />',
