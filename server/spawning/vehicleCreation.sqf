@@ -51,7 +51,7 @@ _vehicle setFuel (0.2 + random 0.1);
 if (_vehicleType isKindOf "Offroad_01_armed_base_F") then
 {
 	_vehicle removeMagazinesTurret ["100Rnd_127x99_mag_Tracer_Yellow", [0]];
-	_vehicle addMagazineTurret ["100Rnd_127x99_mag_Tracer_Yellow", [0]];
+	//_vehicle addMagazineTurret ["100Rnd_127x99_mag_Tracer_Yellow", [0]];
 	reload _vehicle;
 };
 
