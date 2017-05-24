@@ -588,7 +588,7 @@ player createDiaryRecord ["infos",
 [
 "About Cuntee`s Wasteland",
 "
-<br/>Cuntee`s Wasteland is an Independent Only group versus group versus group sandbox survival experience. The objective of this mission is to rally your faction, scavenge supplies, weapons, and vehicles, capture territories, work the missions, and destroy the other factions. It is survival at its best! Keep in mind this is a work in progress, please direct your reports to http://www.nycwasteland.com/
+<br/>Cuntee`s Wasteland is an Independent Only group versus group versus group sandbox survival experience. The objective of this mission is to rally your faction, scavenge supplies, weapons, and vehicles, capture territories, stay alive, and destroy the other factions. It is survival at its best! Keep in mind this is a work in progress, please direct your reports to http://www.nycwasteland.com/
 <br/>
 <br/>!!!!WARNING EXTREME AI SERVER!!!!!
 <br/>
@@ -600,19 +600,19 @@ player createDiaryRecord ["infos",
 <br/>A. See the above description
 <br/>
 <br/>Q. Where can I get a gun?
-<br/>A. Weapons are found in one of three places, first in ammo crates that come as rewards from missions, inside and outside buildings, and second, in the gear section of the vehicles, which also randomly spawn around the map. The last place to find a gun would be at the gunshops located throughout the map. You can also find them on dead players whose bodies have not yet been looted.
+<br/>A. Weapons are found all across the map, you willfind them nearly in all types of areas from civilian neighborhoods to military stations, inside and outside buildings, from looting bandit squads you encounter and kill and you can also find them on dead players whose bodies have not yet been looted.
 <br/>
 <br/>Q. What are the blue circles on the map?
-<br/>A. The circles represent town limits. If friendly soldiers are in a town, you can spawn there from the re-spawn menu; however if there is an enemy presence, you will not be able to spawn there.
+<br/>A. The circles represent town limits. If friendly soldiers are in a town, you can spawn there from the re-spawn menu.
 <br/>
 <br/>Q. Can I build a base?
-<br/>A. Yes. In the General store are all the items you need to build a custom base including base doors, keypads, and base lockers! Be sure to change your pin! Default pin is 0000
+<br/>A. Yes. In the General store are all the items you need to build a custom base.
 <br/>
 <br/>Q. How do I make money in here?
-<br/>A. There are many ways to make money here. Capture and hold territories (yellow crosshatched areas on your map), Work the missions the rewards are great! All ai killed drop a random amount of cash, and hiding any body will give $500, and of course killing players and looting them works too!
+<br/>A. There are many ways to make money here. Capture and hold territories (yellow crosshatched areas on your map), Selling vehicles gear or weapons you find or capture, All Bandits killed drop a random amount of cash, and of course killing players and looting them works too!
 <br/>
 <br/>Q. Why is it so dark, I cant see.
-<br/>A. The server has a day/night cycle just like in the real world, and as such, night time is a factor in your survival. It is recommended that you find sources of light or use your Nightvision Goggles as the darkness sets in.
+<br/>A. The server has a day/night cycle just like in the real world, and as such, night time is a factor in your survival. It is recommended that you find sources of light or try to find Nightvision Goggles before the darkness sets in.
 <br/>
 <br/>Q. Is it ok for me to shoot my team mates?
 <br/>A. You play as Independent, you are free to engage anyone as well as team up with anyone you want. Just be sure you trust whom you team up with.

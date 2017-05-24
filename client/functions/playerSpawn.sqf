@@ -62,9 +62,8 @@ if (isNil "playerData_alive" || !isNil "playerData_resetPos") then
 {
 	[player, "AmovPknlMstpSnonWnonDnon"] call switchMoveGlobal;
 
-	9999 cutText ["Loading...", "BLACK", 0.01];
-	
-	_this call vaforall;
+	9999 cutText ["Loading...", "BLACK", 0.01];	
+	//_this call vaforall;
 
 	true spawn client_respawnDialog;
 
